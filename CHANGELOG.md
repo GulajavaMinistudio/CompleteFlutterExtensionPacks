@@ -8,6 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
-## [0.8.0] - 2019-06-07
+## [0.8.0 - 0.8.1] - 2019-06-07
 
 - Initial release.
+- Fixed some description in package json file and readme.

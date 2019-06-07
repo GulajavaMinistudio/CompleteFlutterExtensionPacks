@@ -1,8 +1,8 @@
 {
     "name": "complete-flutter-extension-pack",
     "displayName": "Complete Flutter Extension Pack",
-    "description": "Complete set of extensions, icon theme, and recommended theme for apps development with Flutter Framework.",
-    "version": "0.8.0",
+    "description": "Complete set of extensions and recommended theme for apps development with Flutter Framework.",
+    "version": "0.8.1",
     "publisher": "GulajavaMinistudio",
     "engines": {
         "vscode": "^1.35.0"
