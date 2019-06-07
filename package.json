@@ -7,6 +7,7 @@
     "engines": {
         "vscode": "^1.35.0"
     },
+    "icon": "box_flutter.png",
     "keywords": [
         "flutter",
         "dart",
@@ -17,6 +18,13 @@
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "url": "https://github.com/GulajavaMinistudio/CompleteFlutterExtensionPacks"
+    },
+    "homepage": "https://github.com/GulajavaMinistudio/CompleteFlutterExtensionPacks",
+    "bugs": {
+        "url": "https://github.com/GulajavaMinistudio/CompleteFlutterExtensionPacks/issues"
+    },
     "extensionPack": [
         "hnw.vscode-auto-open-markdown-preview",
         "Nash.awesome-flutter-snippets",
@@ -37,7 +45,6 @@
         "GitHub.vscode-pull-request-github",
         "vincaslt.highlight-matching-tag",
         "oderwat.indent-rainbow",
-        "VisualStudioExptTeam.vscodeintellicode",
         "wmaurer.vscode-jumpy",
         "MS-vsliveshare.vsliveshare",
         "yzhang.markdown-all-in-one",
@@ -58,6 +65,7 @@
         "wayou.vscode-todo-highlight",
         "TzachOvadia.todo-list",
         "fabiospampinato.vscode-todo-plus",
+        "VisualStudioExptTeam.vscodeintellicode",
         "deerawan.vscode-faker",
         "WakaTime.vscode-wakatime"
     ]
