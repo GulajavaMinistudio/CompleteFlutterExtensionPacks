@@ -46,11 +46,18 @@ Here are some useful extension included in this packs :
 * [TODO List](https://marketplace.visualstudio.com/items?itemName=TzachOvadia.todo-list) - List all action comments (TODO, FIXME, HACK etc) in an easy-to-read list.
 * [Todo+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - AI-assisted development.
+* [VS Code Flutter i18n JSON](https://marketplace.visualstudio.com/items?itemName=esskar.vscode-flutter-i18n-json) - VS Code extension to create a binding between your translations from .json files and your Flutter app.
 * [VSCode-Faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker) - Generate fake data for name, address, lorem ipsum, commerce and much more.
 * [Waka Time](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Metrics, insights, and time tracking automatically generated from your programming activity.
 
 ## For more information
 
+Waka Time included in this extension pack. If you want to use Waka Time, you need free register in their website, and put API Key that needed in Waka Time Extension. You can read more details at their [developer page](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime).
+
 Extension in this pack will be updated, added, or reduced, if future development for those extensions changed.
+
+You can review what is changed every release by looking at [Changelog File](https://github.com/GulajavaMinistudio/CompleteFlutterExtensionPacks/blob/master/CHANGELOG.md).
+
+If you failed to install or update this extension pack. Try removing it first by uninstall this extension pack or remove all extension from your VS Code. And then try reinstalling this extension pack again. Don't forget to use reliable internet connection too.
 
 **Enjoy The Packs!**

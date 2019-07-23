@@ -2,7 +2,7 @@
     "name": "complete-flutter-extension-pack",
     "displayName": "Complete Flutter Extension Pack",
     "description": "Complete set of extensions and recommended theme for apps development with Flutter Framework.",
-    "version": "0.8.1",
+    "version": "1.0.0",
     "publisher": "GulajavaMinistudio",
     "engines": {
         "vscode": "^1.35.0"
@@ -66,6 +66,7 @@
         "TzachOvadia.todo-list",
         "fabiospampinato.vscode-todo-plus",
         "VisualStudioExptTeam.vscodeintellicode",
+        "esskar.vscode-flutter-i18n-json",
         "deerawan.vscode-faker",
         "WakaTime.vscode-wakatime"
     ]

@@ -8,6 +8,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.0.0] - 2019-07-23
+
+- Bump to final version and stable.
+- Add VS Code Flutter i18n JSON.
+
 ## [0.8.0 - 0.8.1] - 2019-06-07
 
 - Initial release.
