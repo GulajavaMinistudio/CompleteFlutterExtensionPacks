@@ -2,7 +2,7 @@
     "name": "complete-flutter-extension-pack",
     "displayName": "Complete Flutter Extension Pack",
     "description": "Complete set of extensions and recommended theme for apps development with Flutter Framework.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "GulajavaMinistudio",
     "engines": {
         "vscode": "^1.35.0"
@@ -35,8 +35,10 @@
         "wmaurer.change-case",
         "Dart-Code.dart-code",
         "EditorConfig.EditorConfig",
+        "usernamehw.errorlens",
         "Dart-Code.flutter",
         "gornivv.vscode-flutter-files",
+        "marcelovelasquez.flutter-tree",
         "alexisvt.flutter-snippets",
         "rubbersheep.gi",
         "donjayamanne.githistory",

@@ -7,6 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - No detail.
+  
+## [1.0.1] - 2019-10-05
+
+- Add Flutter Tree extension.
+- Add Error Lens extension.
 
 ## [1.0.0] - 2019-07-23
 

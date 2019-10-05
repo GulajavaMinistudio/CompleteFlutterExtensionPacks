@@ -1,6 +1,6 @@
 # Complete Flutter Extension Pack
 
-Visual Studio Code offer great experience in text editor just like IDE. Flutter is the next generation easy app development framework for mobile apps (Android and iOS), desktop app, and web apps. Here some extension in Visual Studio Code that is useful for cross platform application development with Flutter Framework. This pack include extensions, git tools, todo list tools, recommended selection of themes and icons, and some utilities. You can select and disable some of them that depend on your needs.
+Visual Studio Code offer great experience in text editor just like IDE. Flutter is the next generation easy app development framework for mobile apps (Android and iOS), desktop app, and web apps. Here some extension in Visual Studio Code that is useful for cross platform application development with Flutter Framework. This pack include extensions, git tools, todo list tools, recommended selection of themes and icons, and some utilities..You can select or disable some extension in this pack, so it can run as depend on your needs.
 
 ## Extension Included In This Pack
 
@@ -15,8 +15,10 @@ Here are some useful extension included in this packs :
 * [Change Case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
 * [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart language support and debugger for Visual Studio Code.
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code.
+* [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 * [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter) - Flutter support and debugger for Visual Studio Code.
 * [Flutter Files](https://marketplace.visualstudio.com/items?itemName=gornivv.vscode-flutter-files) - Quickly scaffold flutter bloc file templates.
+* [Flutter Tree](https://marketplace.visualstudio.com/items?itemName=marcelovelasquez.flutter-tree) - Extension for Flutter to build basic widget tree.
 * [Flutter Widget Snippets](https://marketplace.visualstudio.com/items?itemName=alexisvt.flutter-snippets) - A set of helpful widget snippets for day to day Flutter development.
 * [gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi) - Generating .gitignore files made easy.
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits.
@@ -54,7 +56,7 @@ Here are some useful extension included in this packs :
 
 Waka Time included in this extension pack. If you want to use Waka Time, you need free register in their website, and put API Key that needed in Waka Time Extension. You can read more details at their [developer page](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime).
 
-Extension in this pack will be updated, added, or reduced, if future development for those extensions changed.
+Extension in this pack will be updated, added, or reduced, if future development for those extensions changed. If you don't like some extension in this extension pack, you can just disabling that extension in Extensions Menu, select extension you want to disabled, click Gear Icon, and choose Disable.
 
 You can review what is changed every release by looking at [Changelog File](https://github.com/GulajavaMinistudio/CompleteFlutterExtensionPacks/blob/master/CHANGELOG.md).
 
