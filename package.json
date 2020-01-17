@@ -2,10 +2,10 @@
     "name": "complete-flutter-extension-pack",
     "displayName": "Complete Flutter Extension Pack",
     "description": "Complete set of extensions and recommended theme for apps development with Flutter Framework.",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "publisher": "GulajavaMinistudio",
     "engines": {
-        "vscode": "^1.35.0"
+        "vscode": "^1.39.0"
     },
     "icon": "box_flutter.png",
     "keywords": [
@@ -48,16 +48,15 @@
         "vincaslt.highlight-matching-tag",
         "oderwat.indent-rainbow",
         "wmaurer.vscode-jumpy",
+        "adpyke.codesnap",
         "MS-vsliveshare.vsliveshare",
         "yzhang.markdown-all-in-one",
         "shd101wyy.markdown-preview-enhanced",
         "DavidAnson.vscode-markdownlint",
         "PKief.material-icon-theme",
-        "Equinusocio.vsc-material-theme",
+        "GulajavaMinistudio.mayukaithemevsc",
         "metaseed.metago",
-        "tristanremy.mirage",
         "slevesque.vscode-multiclip",
-        "zhuangtongfa.Material-theme",
         "pnp.polacode",
         "jeroen-meijer.pubspec-assist",
         "everettjf.pubspec-dependency-search",

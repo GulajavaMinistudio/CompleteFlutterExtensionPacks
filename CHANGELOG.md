@@ -7,7 +7,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - No detail.
-  
+
+## [1.0.3] - 2020-01-17
+
+- Slimming down some theme package, and replace it with Mayukai Theme.
+- Add CodeSnap for making code screenshot with better font rendering and theme coloring.
+
 ## [1.0.1] - 2019-10-05
 
 - Add Flutter Tree extension.
