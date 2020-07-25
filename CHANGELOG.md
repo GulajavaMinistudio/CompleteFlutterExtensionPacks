@@ -8,6 +8,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - No detail.
 
+## [1.1.0 - 2020-07-25]
+
+- Make Waka Time extension not installed by default.
+- Add Flutter Helper extension.
+
 ## [1.0.3] - 2020-01-17
 
 - Slimming down some theme package, and replace it with Mayukai Theme.
